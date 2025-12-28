@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(site)/(pages)/shop/page": "app/(site)/(pages)/shop/page.js",
+  "/(site)/blogs/blog-grid/page": "app/(site)/blogs/blog-grid/page.js",
+  "/(site)/(pages)/recent-view/page": "app/(site)/(pages)/recent-view/page.js",
+  "/(site)/(pages)/checkout/page": "app/(site)/(pages)/checkout/page.js",
+  "/(site)/(pages)/payment/result/page": "app/(site)/(pages)/payment/result/page.js",
+  "/(site)/page": "app/(site)/page.js",
+  "/(site)/(pages)/orders/page": "app/(site)/(pages)/orders/page.js"
+}

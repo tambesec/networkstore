@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "/(site)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(site)/layout.css",
+      "static/chunks/app/(site)/layout.js"
+    ],
+    "/(site)/(pages)/recent-view/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(site)/(pages)/recent-view/page.js"
+    ],
+    "/(site)/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(site)/page.css",
+      "static/chunks/app/(site)/page.js"
+    ],
+    "/(site)/(pages)/wishlist/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(site)/(pages)/wishlist/page.js"
+    ],
+    "/(site)/(pages)/contact/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(site)/(pages)/contact/page.js"
+    ],
+    "/(site)/(pages)/shop-details/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(site)/(pages)/shop-details/[id]/page.css",
+      "static/chunks/app/(site)/(pages)/shop-details/[id]/page.js"
+    ],
+    "/(site)/(pages)/shop/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(site)/(pages)/shop/page.css",
+      "static/chunks/app/(site)/(pages)/shop/page.js"
+    ],
+    "/(site)/(pages)/my-account/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(site)/(pages)/my-account/page.js"
+    ],
+    "/(site)/blogs/blog-grid/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(site)/blogs/blog-grid/page.js"
+    ],
+    "/(site)/(pages)/checkout/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(site)/(pages)/checkout/page.js"
+    ],
+    "/(site)/(pages)/payment/result/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(site)/(pages)/payment/result/page.js"
+    ],
+    "/(site)/(pages)/orders/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(site)/(pages)/orders/page.js"
+    ],
+    "/_not-found/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/_not-found/page.js"
+    ]
+  }
+}
